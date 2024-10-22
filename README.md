@@ -74,6 +74,8 @@ git clone https://<your repo>
 ## Exercises
 ---
 
+Note that in the following exercises that the Kustomize and Helm controller depend on the source controller.
+
 ### Source controller
 
 * [Source controller](exercises/source-controller/)
